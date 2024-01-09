@@ -1,1 +1,1 @@
-# MorseTranslate
+Simple Morse Translator
