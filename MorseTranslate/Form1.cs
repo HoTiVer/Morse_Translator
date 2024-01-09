@@ -76,6 +76,10 @@ namespace MorseTranslate
                 }
 
             }
+            //
+
+            ///
+            ///
             else if (mode == "MorseToEngDictionary")
             {
 

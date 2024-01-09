@@ -10,7 +10,9 @@ namespace MorseTranslate
     {
         public Dictionary<string, string> EngToMorseDictionary { get; }
         public Dictionary<string, string> MorseToEngDictionary { get; }
-
+        /// <summary>
+        /// /
+        /// </summary>
 
         public ClassDict()
         {           
